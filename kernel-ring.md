@@ -35,3 +35,7 @@ Kernel ring model is critical for **system stability and security**:
 - **Cannot directly access** hardware or critical kernel memory.
 - When user application needs to perform a privleged operation (reading a file from disk, accessing network), it must make a **System Call** controlled request that switches the CPU into Rint 0, allowing the kernel to perform the operation on its behalf and return the result.
 - If the application crash its isolated and typically only affects that single application, not the entire OS.
+
+## Related
+
+- **[System Call](system-call.md)**
