@@ -38,4 +38,5 @@ Kernel ring model is critical for **system stability and security**:
 
 ## Related
 
+- **[Kernel](kernel.md)**
 - **[System Call](system-call.md)**

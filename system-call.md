@@ -63,4 +63,5 @@ $$\text{User Process } \xrightarrow{\text{loads } \textbf{System Call Number}} \
 
 ## Related
 
+- **[Kernel](kernel.md)**
 - **[Kernel Ring](kernel-ring.md)**
