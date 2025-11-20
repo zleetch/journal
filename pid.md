@@ -13,7 +13,7 @@ is a **Process ID (PID)** is a **unique, positive integer** assigned by the kern
 
 2. **Monitoring / Troubleshooting**
 
-    To identify which program is consuming resources (like in Task Manager or ps command)
+    To identify which program is consuming resources (like in Task Manager or ps command).
 
 3. **Parent-Child Relationship**
 
@@ -27,4 +27,4 @@ is a **Process ID (PID)** is a **unique, positive integer** assigned by the kern
 
 - **PID 1 (init/ systemd)**
 
-    The first user-space process started by the kernel. It is the parent of all other processes and is responsible for managing the rest of the system's startup and shutdown. This is the closest thing to the kernel having a process, but it still a separate user-space program
+    The first user-space process started by the kernel. It is the parent of all other processes and is responsible for managing the rest of the system's startup and shutdown. This is the closest thing to the kernel having a process, but it still a separate user-space program.
